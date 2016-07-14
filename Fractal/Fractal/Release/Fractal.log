@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/6/14 20:18:35。
+     1>项目“G:\C++class\Fractal\Fractal\Fractal.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /l"0x0804" /IRelease\ /nologo /fo"Release\Fractal.res" Fractal.rc 
+       Link:
+         F:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\C++class\Fractal\Release\Fractal.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:F:\VisualStudio\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"G:\C++class\Fractal\Release\Fractal.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\C++class\Fractal\Release\Fractal.lib" /MACHINE:X86 /SAFESEH Release\Fractal.res
+         Release\Fractal.obj
+         Release\FractalDlg.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         Fractal.vcxproj -> G:\C++class\Fractal\Release\Fractal.exe
+     1>已完成生成项目“G:\C++class\Fractal\Fractal\Fractal.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.77
